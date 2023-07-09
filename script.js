@@ -85,7 +85,7 @@ createRandomCircles(rectangle2Element);
 
 document.addEventListener("DOMContentLoaded", function () {
   const videoFiles = [
-    "Media/video9.mp4",
+    "Media/Video9.mp4",
   ];
 
   const randomIndex = Math.floor(Math.random() * videoFiles.length);
