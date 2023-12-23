@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["𝕾𝖓𝖎𝖕𝖊 𖥧", "discord: snipezoid", "Scottish", "18"];
+var titleText = ["𝕾𝖓𝖎𝖕𝖊 𖥧", "discord: snipezoid", "Scottish", "19"];
 
 function loop() {
 
